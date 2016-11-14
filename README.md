@@ -2,6 +2,8 @@
 
 Apaxy is a customisable theme built to enhance the experience of browsing web directories. It uses the `mod_autoindex` Apache module—and some CSS—to override the default style of a directory listing.
 
+![cxn5ukhxuaa12rk](https://cloud.githubusercontent.com/assets/18581851/20278796/48da0652-aaa6-11e6-8d3d-550236839e8e.jpg)
+
 ## Features
 
 Apaxy may be basic, but it gives you a great deal of creative freedom when styling your directory.
